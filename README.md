@@ -256,9 +256,8 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-davgonca-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=1a1a2e)](https://github.com/davgonca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=1a1a2e)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Discord](https://img.shields.io/badge/Discord-davgonca-0d1117?style=for-the-badge&logo=discord&logoColor=00d4ff&labelColor=1a1a2e)](https://discord.com/users/YOUR-DISCORD-ID)
+[![GitHub](https://img.shields.io/badge/GitHub-davgonca-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=1a1a2e)](https://github.com/davifdacunha-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=1a1a2e)](https://linkedin.com/in/davi-cunha-8941a1391)
 
 <br>
 

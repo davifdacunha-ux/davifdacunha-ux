@@ -4,7 +4,7 @@
 <!--                    HERO / TITLE SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/darth.gif" width="500"/>
+<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/vader.webp" width="600"/>
 
 </div>
 
@@ -36,13 +36,12 @@
 
 <!-- REPLACE WITH: Hyperspace / Star Wars intro GIF -->
 <!-- Suggested: https://giphy.com/gifs/starwars-star-wars-8xgqLTTgWqHWU -->
-<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/bb8.gif" width="500"/>
 <!-- HOW TO HOST: Upload GIF to your GitHub repo at /assets/hyperspace.gif, then use:  -->
 <!-- <img src="https://raw.githubusercontent.com/davgonca/davgonca/main/assets/hyperspace.gif" width="600"/> -->
 
 <br><br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%3E+Initializing+Galactic+Terminal...;%3E+Identity%3A+davgonca+%7C+42+Porto;%3E+Status%3A+ONLINE+%E2%9C%93)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=500&height=200&lines=%3E+Initializing+Galactic+Terminal...;%3E+Identity%3A+davgonca+%7C+42+Porto;%3E+Status%3A+ONLINE+%E2%9C%93)
 
 </div>
 
@@ -74,6 +73,8 @@
 
 Cadet at **42 School**, one of the most demanding programming academies in the galaxy.<br>
 Focused on systems, low-level C, and building things that actually work under pressure.
+
+<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/bb8.gif" width="500"/>
 
 </div>
 
@@ -188,31 +189,6 @@ Focused on systems, low-level C, and building things that actually work under pr
 </div>
 
 <br>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CURRENT MISSION                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## `[ ACTIVE MISSION LOG ]`
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  > CURRENT OBJECTIVE ...... Push_swap · Born2beroot             │
-│  > TRAINING PROTOCOLS .... Algorithms · Data Structures         │
-│  > FORCE LEVEL ............ Padawan → Knight [IN PROGRESS]      │
-│  > ETA TO MASTERY ......... Unknown. The Force will decide.     │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  CONTACT / TRANSMISSION                        -->

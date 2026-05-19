@@ -64,9 +64,6 @@
 
 <div align="center">
 
-Cadet at **42 School**, one of the most demanding programming academies in the galaxy.<br>
-Focused on systems, low-level C, and building things that actually work under pressure.
-
 <img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/bb8.gif" width="500"/>
 
 </div>

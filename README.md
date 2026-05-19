@@ -99,7 +99,7 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 ### `CHALLENGE I`
 
-<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/lightsaber_libft_modified.svg" width="500"/>
+<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/lightsaber_libft_and_validated_centered.svg" width="500"/>
 
 *The sacred C library. Built from nothing. Trusted by all.*
 
@@ -113,7 +113,7 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 ### `CHALLENGE II`
 
-<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/lightsaber_ft_printf_final.svg" width="500"/>
+<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/aligned_ft_printf.svg" width="500"/>
 
 *Every formatted byte, under total control.*
 

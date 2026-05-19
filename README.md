@@ -34,7 +34,7 @@
 
 <!-- REPLACE WITH: Hyperspace / Star Wars intro GIF -->
 <!-- Suggested: https://giphy.com/gifs/starwars-star-wars-8xgqLTTgWqHWU -->
-<img src="https://i.imgur.com/placeholder-hyperspace.gif" width="600" alt="Hyperspace GIF" />
+<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/bb8.gif" width="200"/>
 <!-- HOW TO HOST: Upload GIF to your GitHub repo at /assets/hyperspace.gif, then use:  -->
 <!-- <img src="https://raw.githubusercontent.com/davgonca/davgonca/main/assets/hyperspace.gif" width="600"/> -->
 

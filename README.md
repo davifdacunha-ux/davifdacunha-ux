@@ -28,6 +28,8 @@
 
 <div align="center">
 
+<div align="center">
+
 > *"In a galaxy far, far away… someone had to write the standard library."*
 
 <br>

@@ -90,7 +90,7 @@
 
 ### `CHALLENGE I`
 
-<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/libft.gif" width="500"/>
+<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/2.gif" width="500"/>
 
 *The sacred C library. Built from nothing. Trusted by all.*
 
@@ -102,7 +102,7 @@
 
 ### `CHALLENGE II`
 
-<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/ft_printf.gif" width="500"/>
+<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/1.gif" width="500"/>
 
 *Every formatted byte, under total control.*
 
@@ -114,7 +114,7 @@
 
 ### `CHALLENGE III`
 
-<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/get_next_line.gif" width="500"/>
+<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/3.gif" width="500"/>
 
 *One line at a time. File descriptors bow before me.*
 

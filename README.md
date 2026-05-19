@@ -28,8 +28,6 @@
 
 <div align="center">
 
-<div align="center">
-
 > *"In a galaxy far, far away… someone had to write the standard library."*
 
 <br>
@@ -60,8 +58,6 @@
 
 </div>
 
-<div align="center">
-
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CLASSIFICATION : STUDENT DEVELOPER                             │
@@ -91,7 +87,7 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 ## `[ GALACTIC PROJECTS ARCHIVE ]`
 
-*Classified holocrons. Validated by the Jedi Council.*
+*Completed challenges. Validated by the Jedi Council.*
 
 </div>
 
@@ -101,19 +97,9 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 <div align="center">
 
-### ⚔️ &nbsp; `HOLOCRON I` &nbsp; — &nbsp; LIBFT
+### `CHALLENGE I`
 
-<!-- REPLACE WITH: Darth Vader / lightsaber terminal GIF -->
-<!-- Suggested: https://giphy.com/gifs/starwars-star-wars-8xgqLTTgWqHWU -->
-<img src="https://i.imgur.com/placeholder-vader.gif" width="500" alt="LIBFT Banner" />
-<!-- Use: <img src="https://raw.githubusercontent.com/davgonca/davgonca/main/assets/libft.gif" width="500"/> -->
-
-```
-╔══════════════════════════════════════╗
-║   MISSION : Forge the standard lib  ║
-║   STATUS  : ✅ VALIDATED             ║
-╚══════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/davgonca/davgonca/main/assets/lightsaber_libft.svg" width="600" alt="LIBFT"/>
 
 *The sacred C library. Built from nothing. Trusted by all.*
 
@@ -125,18 +111,9 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 <div align="center">
 
-### 🖨️ &nbsp; `HOLOCRON II` &nbsp; — &nbsp; FT_PRINTF
+### `CHALLENGE II`
 
-<!-- REPLACE WITH: R2-D2 / terminal blinking GIF -->
-<!-- Suggested: https://giphy.com/gifs/starwars-star-wars-r2d2 -->
-<img src="https://i.imgur.com/placeholder-printf.gif" width="500" alt="FT_PRINTF Banner" />
-
-```
-╔══════════════════════════════════════╗
-║   MISSION : Reconstruct printf      ║
-║   STATUS  : ✅ VALIDATED             ║
-╚══════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/davgonca/davgonca/main/assets/lightsaber_ft_printf.svg" width="600" alt="FT_PRINTF"/>
 
 *Every formatted byte, under total control.*
 
@@ -148,18 +125,9 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 <div align="center">
 
-### 📡 &nbsp; `HOLOCRON III` &nbsp; — &nbsp; GET_NEXT_LINE
+### `CHALLENGE III`
 
-<!-- REPLACE WITH: Space transmission / signal GIF -->
-<!-- Suggested: https://giphy.com/gifs/starwars-star-wars-hologram -->
-<img src="https://i.imgur.com/placeholder-gnl.gif" width="500" alt="GET_NEXT_LINE Banner" />
-
-```
-╔══════════════════════════════════════╗
-║   MISSION : Read across the stars   ║
-║   STATUS  : ✅ VALIDATED             ║
-╚══════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/davgonca/davgonca/main/assets/lightsaber_get_next_line.svg" width="600" alt="GET_NEXT_LINE"/>
 
 *One line at a time. File descriptors bow before me.*
 
@@ -260,8 +228,9 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-davgonca-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=1a1a2e)](https://github.com/davifdacunha-ux)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=1a1a2e)](https://linkedin.com/in/davi-cunha-8941a1391)
+[![GitHub](https://img.shields.io/badge/GitHub-davgonca-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=1a1a2e)](https://github.com/davgonca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=1a1a2e)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Discord](https://img.shields.io/badge/Discord-davgonca-0d1117?style=for-the-badge&logo=discord&logoColor=00d4ff&labelColor=1a1a2e)](https://discord.com/users/YOUR-DISCORD-ID)
 
 <br>
 

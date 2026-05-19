@@ -99,7 +99,7 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 ### `CHALLENGE I`
 
-<img src="https://raw.githubusercontent.com/davgonca/davgonca/main/assets/lightsaber_libft.svg" width="600" alt="LIBFT"/>
+<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/lightsaber_libft.svg" width="500"/>
 
 *The sacred C library. Built from nothing. Trusted by all.*
 

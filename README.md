@@ -13,16 +13,18 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║        ██████╗  █████╗ ██╗      █████╗  ██████╗████████╗██╗ ██████╗    ║
-║        ██╔════╝ ██╔══██╗██║     ██╔══██╗██╔════╝╚══██╔══╝██║██╔════╝   ║
-║        ██║  ███╗███████║██║     ███████║██║        ██║   ██║██║        ║
-║        ██║   ██║██╔══██║██║     ██╔══██║██║        ██║   ██║██║        ║
-║        ╚██████╔╝██║  ██║███████╗██║  ██║╚██████╗   ██║   ██║╚██████╗  ║
-║         ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝ ╚═════╝ ║
+║        ██████╗  █████╗ ██╗      █████╗  ██████╗████████╗██╗ ██████╗      ║
+║        ██╔════╝ ██╔══██╗██║     ██╔══██╗██╔════╝╚══██╔══╝██║██╔════╝     ║
+║        ██║  ███╗███████║██║     ███████║██║        ██║   ██║██║          ║
+║        ██║   ██║██╔══██║██║     ██╔══██║██║        ██║   ██║██║          ║
+║        ╚██████╔╝██║  ██║███████╗██║  ██║╚██████╗   ██║   ██║╚██████╗     ║
+║         ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝ ╚═════╝     ║
 ║                                                                          ║
-║           ── DEVELOPER COMMAND CENTER · SECTOR 42 · PORTO ──            ║
+║           ── DEVELOPER COMMAND CENTER · SECTOR 42 · PORTO ──             ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
 
 </div>
 
@@ -170,11 +172,7 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davgonca&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&border_color=00d4ff&hide_border=false&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davgonca&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=8892b0&border_color=00d4ff"/>
-
-<br><br>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=davgonca&theme=tokyonight&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&border=00d4ff" alt="GitHub Streak" />
 

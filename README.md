@@ -4,7 +4,7 @@
 <!--                    HERO / TITLE SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:1a1a2e&height=200&section=header&text=davgonca&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=42%20Student%20%7C%20Systems%20Developer&descAlignY=60&descColor=8892b0&animation=fadeIn" width="100%"/>
+<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/darth.gif" width="500"/>
 
 </div>
 

@@ -34,18 +34,11 @@
 
 <br>
 
-<!-- REPLACE WITH: Hyperspace / Star Wars intro GIF -->
-<!-- Suggested: https://giphy.com/gifs/starwars-star-wars-8xgqLTTgWqHWU -->
-<!-- HOW TO HOST: Upload GIF to your GitHub repo at /assets/hyperspace.gif, then use:  -->
-<!-- <img src="https://raw.githubusercontent.com/davgonca/davgonca/main/assets/hyperspace.gif" width="600"/> -->
+<br>
 
-<br><br>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=500&height=200&lines=%3E+Initializing+Galactic+Terminal...;%3E+Identity%3A+davgonca+%7C+42+Porto;%3E+Status%3A+ONLINE+%E2%9C%93)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=500&height=150&lines=%3E+Initializing+Galactic+Terminal...;%3E+Identity%3A+davgonca+%7C+42+Porto;%3E+Status%3A+ONLINE+%E2%9C%93)
 
 </div>
-
-<br>
 
 ---
 
@@ -108,8 +101,6 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
@@ -122,8 +113,6 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
@@ -135,8 +124,6 @@ Focused on systems, low-level C, and building things that actually work under pr
 *One line at a time. File descriptors bow before me.*
 
 </div>
-
-<br>
 
 ---
 
@@ -158,8 +145,6 @@ Focused on systems, low-level C, and building things that actually work under pr
 ![Makefile](https://img.shields.io/badge/Makefile-1a1a2e?style=for-the-badge&logo=cmake&logoColor=00d4ff)
 
 </div>
-
-<br>
 
 ---
 
@@ -216,7 +201,7 @@ Focused on systems, low-level C, and building things that actually work under pr
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0d1117,100:000000&height=120&section=footer&text=May+the+Code+be+with+you&fontSize=24&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://github.com/davifdacunha-ux/davifdacunha-ux/raw/main/assets/giphy.gif" width="500"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--         END OF TRANSMISSION · GALACTIC COMMAND CENTER         -->

@@ -30,7 +30,7 @@
 
 <div align="center">
 
-> *"In a galaxy far, far away… someone had to write the standard library."*
+> *"In a galaxy far, far away… someone had to learn to code."*
 
 <br>
 
@@ -86,8 +86,6 @@ Focused on systems, low-level C, and building things that actually work under pr
 *Completed challenges. Validated by the Jedi Council.*
 
 </div>
-
-<br>
 
 ---
 
